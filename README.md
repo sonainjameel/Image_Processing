@@ -45,7 +45,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
 
-Your feedback is welcome! If you have any questions or comments, please feel free to reach out by opening an issue or through your preferred contact method.
+Your feedback is welcome! If you have any questions or comments, please feel free to reach out by opening an issue or through email.
 
 sonainjamil@ieee.org.
 
